@@ -1,0 +1,3 @@
+var = sample1
+var = sample3
+Hello
